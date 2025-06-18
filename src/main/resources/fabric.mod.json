@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
-	"id": "cobblemon-go",
+	"id": "n1ncobblemon-go",
 	"version": "${version}",
 	"name": "Cobblemon Go",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A Cobblemon Mod with many things from Pokemon Go",
 	"authors": [
-		"Me!"
+		"n1n"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -33,7 +33,8 @@
 		"fabricloader": ">=0.16.14",
 		"minecraft": "~1.21.1",
 		"java": ">=21",
-		"fabric-api": "*"
+		"fabric-api": "*",
+		"cobblemon": "*"
 	},
 	"suggests": {
 		"another-mod": "*"
